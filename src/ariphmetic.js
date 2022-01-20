@@ -9,8 +9,3 @@ export default {
   divide,
   multiply,
 };
-
-
-const foo = (name) => console.log(name)
-
-console.log('dada')
